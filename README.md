@@ -8,7 +8,7 @@ gestión de su inventario y ventas.
 
 ## DIAGRAMA ER 
 
-![] (ER_postgres.pgerd)
+![](ER_postgres.pgerd)
 
 
 
